@@ -1,13 +1,3 @@
-
-# Environment and secret files
+# Ignore local environment files in this folder
 .env
 .env.*
-
-# Editor and operating system files
-.vscode/
-Thumbs.db
-.DS_Store
-
-# Temporary files
-*.tmp
-*.log
